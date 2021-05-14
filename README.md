@@ -1,6 +1,6 @@
 # lisette_spalding__2021_portfolio__lispalding
 This is my Python (programming) portfolio for my Senior year (2020-2021)— specifically my 2021 portfolio.<br>
-<hr><br>
+<hr>
 🗶 Things in this portfolio include:<br>
   &nbsp;🗶 ↝ A Tile-Based Topdown Zombie Shooter ( PROJECT NAME: python__tile_based_game | PROGRAMMED WITH: Python 3.x & Pygame )<br>
     &nbsp;&nbsp;🗶 ↺ ↝ This Topdwon Shooter is customized with hand-picked music and sounds— I am planning on expanding upon this shooter (i.e. I want to add more kinds of weaponry, and maybe even add an inventory and more kinds of health packs.)<br>
